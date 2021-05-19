@@ -1,1 +1,5 @@
 config.ini
+src/error_details.txt
+src/error_ids.txt
+src/success_ids.txt
+src/__pycache__/
